@@ -4,7 +4,6 @@ lst = [int(bin,2) for bin in lst]
 lst.sort()
 barbie = lst[-1]
 ken = 0
-index = 0
 for num in lst[-2::-1]:
     if ken + num <= barbie: 
         ken += num
