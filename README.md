@@ -1,5 +1,5 @@
 # Synapse
-## Synapse ML Committee 
+## Synapse ML Committee, DJSCE
 
 ### Co-com interview Tasks: Folder in main
 
